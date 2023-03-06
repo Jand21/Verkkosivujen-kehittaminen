@@ -1,2 +1,2 @@
-# Verkkosivujen-kehitt-minen
+# Verkkosivujen-kehittaminen
 Tehtävät ym
